@@ -1,0 +1,17 @@
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\obj\Debug\QuickTest.csprojAssemblyReference.cache
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\obj\Debug\QuickTest.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\QuickTest.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\QuickTest.pdb
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Project1.exe
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Project1.pdb
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Project1.exe.config
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\obj\Debug\QuickTest.csproj.CopyComplete
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\obj\Debug\QuickTest.dll
+C:\Users\amikom\source\repos\QuickSolution\MSTest Test Project\obj\Debug\QuickTest.pdb
